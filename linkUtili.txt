@@ -1,0 +1,3 @@
+Carousel: https://getbootstrap.com/docs/5.3/components/carousel/
+
+Immagini: https://drive.google.com/drive/folders/1AhCRUOEvD-A25-tYM1RdTCu7VYkNaABD

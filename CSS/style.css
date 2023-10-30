@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+#carouselExample
+{
+    text-align:center;
+    width:100%;
+    height: auto;
+    background-color: #1d1d1f;
+}
+
+img
+{
+    width: 50%;
+    height: auto;   
+}
