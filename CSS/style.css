@@ -1,19 +1,21 @@
-* {
+h {
     margin: 0;
     padding: 0;
     border: 0;
 }
 
+body {
+
+}
+
 #carouselExample
 {
     text-align:center;
-    width:100%;
-    height: auto;
+    height:100vh;
     background-color: #1d1d1f;
 }
 
 img
 {
-    width: 50%;
-    height: auto;   
+    height: 100vh;   
 }
